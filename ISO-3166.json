@@ -1,4 +1,12 @@
 {
+    "Aland Islands":
+    {
+        "prefix": null,
+        "alpha_2": "AX",
+        "alpha_3": "ALA",
+        "numeric": "248",
+        "flag": null
+    },
     "Afghanistan":
     {
         "prefix": null,
@@ -1957,14 +1965,6 @@
         "alpha_2": "ZW",
         "alpha_3": "ZWE",
         "numeric": "716",
-        "flag": null
-    },
-    "Aland Islands":
-    {
-        "prefix": null,
-        "alpha_2": "AX",
-        "alpha_3": "ALA",
-        "numeric": "248",
         "flag": null
     }
 }
